@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijish O B</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I created [Widget Fusion](https://widgetfusion.com/)
+- 🔭 I created [Nextjs server action tester](https://www.npmjs.com/package/nextjs-server-action-tester)
 
 - 👾 I created [GPT in Terminal](https://www.npmjs.com/package/gpt-in-terminal)
 
